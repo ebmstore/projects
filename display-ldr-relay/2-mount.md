@@ -2,7 +2,7 @@
 title: Assemblaggio
 ---
 
-<img src="./images/display_ldr_relay.png" alt="" style="width: 500px;"/>
+<img src="/images/display-ldr-relay/display_ldr_relay.png" alt="" style="width: 500px;"/>
 
   * Posizionare la fotoresistenza sulla breadboard collegando un pin a __VCC__
   * Posizionare transistor e relè sulla breadboard come in figura
