@@ -1,0 +1,5 @@
+name: Lampada multicolore
+description: Controllare il led RGB con l'encoder
+image: /images/rgb-encoder/5.jpg
+tags: !!seq [ starter_kit, arduino ]
+published: true

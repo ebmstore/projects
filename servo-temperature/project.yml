@@ -1,0 +1,5 @@
+name: Servotermometro
+description: Costruire un termometro con il servomotore e il sensore DS18B20
+image: /images/servo-temperature/3.jpg
+tags: !!seq [ starter_kit, arduino ]
+published: true

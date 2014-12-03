@@ -1,0 +1,5 @@
+name: Controllare un servomotore - l'encoder
+description: Controllare un servomotore con un encoder rotativo
+image: /images/servo-encoder/1.jpg
+tags: !!seq [ starter_kit, arduino ]
+published: true

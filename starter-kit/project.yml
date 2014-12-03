@@ -1,0 +1,5 @@
+name: Starter Kit
+description: Progetti starter kit
+image: http://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/0YEAAOxy9X5TbMG6/$_12.JPG
+tags: !!seq [ starter_kit, arduino ]
+published: true

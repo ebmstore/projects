@@ -1,0 +1,5 @@
+name: Controllare un servomotore - il potenziometro
+description: Controllo del servomotore con il potenziometro
+image: /images/servo-potentiometer/1.jpg
+tags: !!seq [ starter_kit, arduino ]
+published: true
