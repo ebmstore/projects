@@ -1,0 +1,5 @@
+name: "Test"
+description: This is a test
+image: http://insolitebuzz.fr/wp-content/uploads/2014/10/test-all-the-things.jpg
+tags: !!seq [ test ]
+published: true
