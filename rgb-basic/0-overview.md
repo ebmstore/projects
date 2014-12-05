@@ -1,6 +1,6 @@
 ---
 title: Overview
 ---
-<img src="./images/2.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-basic/2.jpg" alt="" style="width: 500px;"/>
 
 In questo esempio vedremo come controllare un led rgb.

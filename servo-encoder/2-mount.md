@@ -2,7 +2,7 @@
 title: Assemblaggio
 ---
 
-<img src="./images/servo_encoder.png" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/servo-encoder/servo_encoder.png" alt="" style="width: 500px;"/>
 
   * Collegare il servo nel seguente modo
      * Cavo marrone -> GND
@@ -13,4 +13,4 @@ title: Assemblaggio
   * Collegare il pin a destra al pin 6
   * Collegare il pin a sinistra al pin 5
 
-<img src="./images/1.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/servo-encoder/1.jpg" alt="" style="width: 500px;"/>

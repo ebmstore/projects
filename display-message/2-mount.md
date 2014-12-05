@@ -2,7 +2,7 @@
 title: Assemblaggio
 ---
 
-<img src="./images/display_message.png" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/display-message/display_message.png" alt="" style="width: 500px;"/>
 
   * Collegare a GND i seguenti pin
      * VSS
@@ -20,4 +20,4 @@ title: Assemblaggio
      * D6 -> 3
      * D7 -> 2
 
-<img src="./images/1.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/display-message/1.jpg" alt="" style="width: 500px;"/>

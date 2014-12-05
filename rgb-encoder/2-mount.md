@@ -2,21 +2,21 @@
 title: Assemblaggio
 ---
 
-<img src="./images/rgb_encoder.png" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-encoder/rgb_encoder.png" alt="" style="width: 500px;"/>
 
    * Posizionare il led RGB sulla breadboard
    * Posizionare i tre led colorati sulla breadboard collegando il catodo a GND
 
-<img src="./images/1.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-encoder/1.jpg" alt="" style="width: 500px;"/>
 
    * Collegare le resistenze da 270 Ohm al primo, terzo e quarto pin del led RGB
    * Collegare le resistenze da 270 Ohm all'anodo dei led colorati
    
-<img src="./images/2.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-encoder/2.jpg" alt="" style="width: 500px;"/>
 
    * Posizionare l'encoder sulla breadboard
 
-<img src="./images/3.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-encoder/3.jpg" alt="" style="width: 500px;"/>
 
    * Collegare led RGB nel seguente modo:
       * Pin 1 (RED) -> Pin 6
@@ -36,4 +36,4 @@ title: Assemblaggio
         * Un pin a GND
 	* Un pin ad A2
 
-<img src="./images/4.jpg" alt="" style="width: 500px;"/>
+<img src="http://projects.ebmstore.it/images/rgb-encoder/4.jpg" alt="" style="width: 500px;"/>
