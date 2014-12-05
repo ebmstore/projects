@@ -1,5 +1,5 @@
 name: Ledbar
 description: Costruire e pilotare una ledbar 
-image: /images/ledbar/3.jpg
+image: http://projects.ebmstore.it/images/ledbar/3.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

@@ -1,5 +1,5 @@
 name: Controllare la ledbar - l'encoder
 description: Pilotare la ledbar con un encoder
-image: /images/ledbar-encoder/2.jpg
+image: http://projects.ebmstore.it/images/ledbar-encoder/2.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

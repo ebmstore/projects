@@ -1,5 +1,5 @@
 name: Il potenziometro e il display
 description: Visualizzare il valore di un potenziometro sul display
-image: /images/display-potentiometer/1.jpg
+image: http://projects.ebmstore.it/images/display-potentiometer/1.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

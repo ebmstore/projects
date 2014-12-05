@@ -1,5 +1,5 @@
 name: Il led RGB
 description: Visualizzare colori a caso con il led RGB
-image: /images/rgb-basic/2.jpg
+image: http://projects.ebmstore.it/images/rgb-basic/2.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

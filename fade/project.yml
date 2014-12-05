@@ -1,5 +1,5 @@
 name: "Fade"
 description: Controllare la luminosità di un led con il potenziometro
-image: /images/fade/4.jpg
+image: http://projects.ebmstore.it/images/fade/4.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

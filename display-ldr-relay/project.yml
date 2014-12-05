@@ -1,5 +1,5 @@
 name: Crepuscolare
 description: Un semplice interruttore crepuscolare
-image: /images/display-ldr-relay/3.jpg
+image: http://projects.ebmstore.it/images/display-ldr-relay/3.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

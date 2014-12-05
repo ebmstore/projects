@@ -1,5 +1,5 @@
 name: Termometro
 description: Un piccolo termometro con allarme
-image: /images/display-temperature-buzzer/3.jpg
+image: http://projects.ebmstore.it/images/display-temperature-buzzer/3.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

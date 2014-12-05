@@ -1,5 +1,5 @@
 name: Controllare la ledbar - il potenziomentro
 description: Controllo della ledbar con un potenziometro
-image: /images/ledbar-potentiometer/2.jpg
+image: http://projects.ebmstore.it/images/ledbar-potentiometer/2.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true

@@ -1,5 +1,5 @@
 name: Primi passi con il display
 description: Visualizzare un messaggio sul display
-image: /images/display-message/1.jpg
+image: http://projects.ebmstore.it/images/display-message/1.jpg
 tags: !!seq [ starter_kit, arduino ]
 published: true
